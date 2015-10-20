@@ -3,6 +3,12 @@
 
 using namespace std;
 
+void foobar(void)
+{
+    int foobar;
+    cout  << "You will never get here!"
+}
+
 
 int main(int argc,char **argv)
 {
